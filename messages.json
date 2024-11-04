@@ -1,0 +1,6 @@
+{
+    "messages": [
+        { "user": "User1", "message": "Hello!" },
+        { "user": "User2", "message": "Hi there!" }
+    ]
+}
